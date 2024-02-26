@@ -1,0 +1,2 @@
+Hello This is the first file for Git repository.
+Now i am adding changes into it.
